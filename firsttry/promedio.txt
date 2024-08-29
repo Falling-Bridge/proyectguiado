@@ -1,0 +1,1 @@
+Promedio de tiempo de procesamiento: 42.76 ms
